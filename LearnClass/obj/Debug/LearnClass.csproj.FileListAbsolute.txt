@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\LearnClass\LearnClass\bin\Debug\LearnClass.exe.config
+C:\Users\Admin\source\repos\LearnClass\LearnClass\bin\Debug\LearnClass.exe
+C:\Users\Admin\source\repos\LearnClass\LearnClass\bin\Debug\LearnClass.pdb
+C:\Users\Admin\source\repos\LearnClass\LearnClass\obj\Debug\LearnClass.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\LearnClass\LearnClass\obj\Debug\LearnClass.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LearnClass\LearnClass\obj\Debug\LearnClass.exe
+C:\Users\Admin\source\repos\LearnClass\LearnClass\obj\Debug\LearnClass.pdb
